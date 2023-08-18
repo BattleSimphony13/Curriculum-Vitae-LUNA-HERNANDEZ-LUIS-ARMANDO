@@ -1,0 +1,44 @@
+#principal{
+	border: solid 1px #cccccc;
+	padding: 5px;
+	margin: 0 auto;
+	width: 85%;
+	background: #c2f7af;
+	border-radius: 5px;
+	color: #010101;
+	font-style: normal;
+	font-size: 20px;
+}
+
+fieldset{
+
+	margin-bottom: 10px;
+}
+
+legend{
+
+border:solid 1px #000000;
+padding: 5px;
+font-weight: bold;
+background: #409600;
+border-radius: 10px;
+color: #64FF2C;
+font-size: 30px;
+font-style: italic;
+}
+
+#mifoto{
+
+	border: solid 10px;
+	margin: 10px;
+	border-radius: 15px;
+}
+
+#references{
+	padding: 5px;
+
+}
+
+body{
+	background-color: #000000;
+}
